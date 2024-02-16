@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Mairaj.
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: abdullah.mairajk@gmail.com
